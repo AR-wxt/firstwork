@@ -1,3 +1,4 @@
+#firstwork
 #include<stdio.h>
 #define N 88
 int maxSubarry(int a[],int m){
